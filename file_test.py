@@ -6,7 +6,7 @@ def test_cald_addition():
 
 def test_calc_sustraction():
     # fonction test du résultat de 2 - 4
-    output = 2- 4
+    output = 2 - 4
     assert output == -2
 
 
