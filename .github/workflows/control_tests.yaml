@@ -23,5 +23,5 @@ jobs:
                                 pytests
 
                         - name: Run flake8
-                          uses: flake8 .
+                          run: flake8 .
 
